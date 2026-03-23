@@ -1,0 +1,58 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+*.cache
+
+# 备份文件
+*.bak
+*.backup
+*.old
+
+# 大型文件
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# 媒体文件（太大，建议用其他方式同步）
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mp3
+*.wav
+
+# 程序文件
+*.exe
+*.dll
+*.so
+*.dylib
+
+# 开发文件
+node_modules/
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Obsidian 缓存和临时文件
+.obsidian/workspace
+.obsidian/workspace.json
+.trash/
+
+# 个人隐私文件（根据情况调整）
+personal/
+private/
+secrets/
+config.local.*
+*.key
+*.pem

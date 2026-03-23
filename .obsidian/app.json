@@ -1,0 +1,15 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./resources",
+  "promptDelete": false
+}
